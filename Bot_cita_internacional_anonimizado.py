@@ -194,7 +194,7 @@ for i in [5,6]:
 
 
 # In[ ]:
-
+driver.close()
 
 
 
