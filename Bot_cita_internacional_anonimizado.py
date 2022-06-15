@@ -54,7 +54,7 @@ mis_datos={"dia_nacimiento": ,
           "dia_viaje": ,
           "mes_viaje": ,
           "anyo_viaje": ,
-          "dracion": ,
+          "duracion": ,
           "provincia": ,
           "DNI": ,
           "nombre": 
